@@ -1,0 +1,7 @@
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\bin\Debug\이수연13.exe.config
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\bin\Debug\이수연13.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\bin\Debug\이수연13.pdb
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\obj\Debug\이수연13.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\obj\Debug\이수연13.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\obj\Debug\이수연13.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0913\이수연13\이수연13\obj\Debug\이수연13.pdb

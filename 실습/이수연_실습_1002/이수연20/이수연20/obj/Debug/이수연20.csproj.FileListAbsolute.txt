@@ -1,0 +1,10 @@
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\bin\Debug\이수연20.exe.config
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\bin\Debug\이수연20.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\bin\Debug\이수연20.pdb
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.Form1.resources
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.Properties.Resources.resources
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.csproj.GenerateResource.Cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1002\이수연20\이수연20\obj\Debug\이수연20.pdb

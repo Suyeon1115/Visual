@@ -1,0 +1,11 @@
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\bin\Debug\이수연_1018.exe.config
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\bin\Debug\이수연_1018.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\bin\Debug\이수연_1018.pdb
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.DialogForm.resources
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.Form1.resources
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.Properties.Resources.resources
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.csproj.GenerateResource.Cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_09\이수연_1018\이수연_1018\obj\Debug\이수연_1018.pdb

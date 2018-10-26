@@ -1,0 +1,11 @@
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\bin\Debug\netcoreapp2.0\이수연_05.deps.json
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\bin\Debug\netcoreapp2.0\이수연_05.runtimeconfig.json
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\bin\Debug\netcoreapp2.0\이수연_05.runtimeconfig.dev.json
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\bin\Debug\netcoreapp2.0\이수연_05.dll
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\bin\Debug\netcoreapp2.0\이수연_05.pdb
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.AssemblyInfoInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.AssemblyInfo.cs
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.dll
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0906\이수연_05\이수연_05\obj\Debug\netcoreapp2.0\이수연_05.pdb

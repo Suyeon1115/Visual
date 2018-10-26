@@ -1,0 +1,10 @@
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\bin\Debug\이수연_10_04.exe.config
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\bin\Debug\이수연_10_04.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\bin\Debug\이수연_10_04.pdb
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.Form1.resources
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.Properties.Resources.resources
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.csproj.GenerateResource.Cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_07\이수연_10_04\이수연_10_04\obj\Debug\이수연_10_04.pdb

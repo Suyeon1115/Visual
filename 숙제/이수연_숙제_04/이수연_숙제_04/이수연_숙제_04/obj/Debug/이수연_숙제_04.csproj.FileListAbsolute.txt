@@ -1,0 +1,7 @@
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\bin\Debug\이수연_숙제_04.exe.config
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\bin\Debug\이수연_숙제_04.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\bin\Debug\이수연_숙제_04.pdb
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\obj\Debug\이수연_숙제_04.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\obj\Debug\이수연_숙제_04.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\obj\Debug\이수연_숙제_04.exe
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_04\이수연_숙제_04\이수연_숙제_04\obj\Debug\이수연_숙제_04.pdb

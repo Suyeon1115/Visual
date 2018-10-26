@@ -1,0 +1,10 @@
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\bin\Debug\이수연_1004.exe.config
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\bin\Debug\이수연_1004.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\bin\Debug\이수연_1004.pdb
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.Form1.resources
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.Properties.Resources.resources
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.csproj.GenerateResource.Cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_1004\이수연_1004\이수연_1004\obj\Debug\이수연_1004.pdb

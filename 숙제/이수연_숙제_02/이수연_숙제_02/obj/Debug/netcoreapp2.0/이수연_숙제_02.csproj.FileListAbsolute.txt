@@ -1,0 +1,11 @@
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\bin\Debug\netcoreapp2.0\이수연_숙제_02.deps.json
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\bin\Debug\netcoreapp2.0\이수연_숙제_02.runtimeconfig.json
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\bin\Debug\netcoreapp2.0\이수연_숙제_02.runtimeconfig.dev.json
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\bin\Debug\netcoreapp2.0\이수연_숙제_02.dll
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\bin\Debug\netcoreapp2.0\이수연_숙제_02.pdb
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.AssemblyInfoInputs.cache
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.AssemblyInfo.cs
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.dll
+C:\Users\sec\Desktop\C#\숙제\이수연_숙제_02\이수연_숙제_02\obj\Debug\netcoreapp2.0\이수연_숙제_02.pdb

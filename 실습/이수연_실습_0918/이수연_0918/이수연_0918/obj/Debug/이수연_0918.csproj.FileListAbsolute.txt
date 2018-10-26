@@ -1,0 +1,7 @@
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\bin\Debug\이수연_0918.exe.config
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\bin\Debug\이수연_0918.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\bin\Debug\이수연_0918.pdb
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\obj\Debug\이수연_0918.csprojResolveAssemblyReference.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\obj\Debug\이수연_0918.csproj.CoreCompileInputs.cache
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\obj\Debug\이수연_0918.exe
+C:\Users\sec\Desktop\C#\실습\이수연_실습_0918\이수연_0918\이수연_0918\obj\Debug\이수연_0918.pdb
